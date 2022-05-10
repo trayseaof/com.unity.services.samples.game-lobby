@@ -1,5 +1,5 @@
 {
-  "dependencies": {`,`
+  "dependencies": {
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.collab-proxy": "1.11.2",
     "com.unity.collections": "1.0.0-pre.6",
